@@ -10,7 +10,8 @@ his project involves building a simple web application that allows patients to b
 --• Secure login system.
 
 
-#install django
+## *install django*
+
 pip install django
 
 #to create django project
